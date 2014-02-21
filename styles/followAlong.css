@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/* CSS Document */
+
+div     {
+            text-align:middle;
+        }
+
+#home   {
+            height:800;
+            width:800;
+            text-align:center;
+        }
+        
+#container  {
+                height:1000px;
+                width:100%;
+            }
+
+.videocontainer    {
+                        height:100%;
+                        width:100%;
+                    }
+
+.button {
+            width:720px;
+            height:40px;
+            font-size:20px;
+        }
+                        
+.mainButton     {
+                    width:500px;
+                    height:40px;
+                    text-align:left;
+                    font-size:15px;
+                  
+                }
+        
+.innerButton    {
+                    width:100px;
+                    height:40px;
+                    font-size:15px;
+                }
+                
+video   {
+            width:700px;
+            height:500px;
+        }
